@@ -4,8 +4,8 @@ I'm Jean (they/he), nice to meet you. I'm a computer science student currently s
 
 This repository is home to a bunch of my school and personal work, feel free to look through what I've made.
 
-- 👀 interested in all things cloud, especially AWS. love python too!
-- 🌱 currently learning C# and Unity, interested in nextjs as well.
+- 👀 interested in all things cloud, especially AWS. love Python and Typescript too!
+- 🌱 currently learning NextJS, Typescript, C# and Unity.
 - 🖥 🎨 aside from coding, I also draw and game! big into Disco Elysium and FFXIV.
 <!---
 jkcadee/jkcadee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
